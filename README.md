@@ -1,1 +1,1 @@
-# SG
+# SlingShot Game
